@@ -1,2 +1,2 @@
-# notes
-For documenting learned concepts.
+# Notes
+For documenting learned concepts. 
