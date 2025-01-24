@@ -1,14 +1,24 @@
-[[Data Types]] : Various data types used<br>
-[[CREATE database, tables]] <br>
-[[ALTER]]<br>
-[[INSERT]]<br>
-[[SELECT]]<br>
-[[INSERT INTO SELECT]]<br>
-[[UPDATE, SET]]<br>
-[[DELETE, WHERE]]<br>
-[[TRUNCATE]]<br>
-[[ARITHMETIC]]<br>
-[[COMPARISON]]<br>
-[[ORDER BY]]<br>
-[[LOGICAL]]<br>
+[[Data Types]] : Various data types used
+[[CREATE database, tables]] 
+[[ALTER]]
+[[INSERT]]
+[[SELECT]]
+[[INSERT INTO SELECT]]
+[[UPDATE, SET]]
+[[DELETE, WHERE]]
+[[TRUNCATE]]
+[[ARITHMETIC]]
+[[COMPARISON]]
+[[ORDER BY]]
+[[LOGICAL]]
 [[DISTINCT]] 
+[[SCHEMA]]
+[[RELATIONSHIPS]]
+[[NATURAL JOIN]]
+[[AS CLAUSE]]
+[[BETWEEN]]
+[[TUPLE COMPARISON]]
+[[SET OPS]]
+[[NULL]]
+
+
