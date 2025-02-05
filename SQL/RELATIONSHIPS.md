@@ -1,0 +1,6 @@
+- Primary Key: Unique table identifier
+- Foreign Key: key attribute present in a table, which is also a primary key of another table to which it needs to be linked.
+- Degree: No of columns
+- Cardinality: No of rows
+- Tuple/rows: Records
+- Types of relations between tables: one-one, one-many, many-many(usually broken down)
